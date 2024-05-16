@@ -1,6 +1,5 @@
 # EducationHub
-
-EducationHub is a comprehensive educational repository on GitHub that aims to provide a wide range of learning resources, projects, and tutorials for students, teachers, and self-learners. Whether you are a beginner or an experienced learner, EducationHub has something for everyone.
+Benjanin Virtual Institute is a comprehensive educational repository on GitHub that aims to provide a wide range of learning resources, projects, and tutorials for students, teachers, and self-learners. Whether you are a beginner or an experienced learner, EducationHub has something for everyone.
 ## Output
 ![image](https://github.com/ahkamboh/EducationHub/assets/123060177/49754435-258d-4d2f-9c23-edf03d7e1015)
 ## Color Palettes
@@ -34,4 +33,4 @@ Let's collaborate and create an exceptional educational resource for everyone!
 
 ## License
 
-EducationHub is released under the [MIT License](LICENSE). Feel free to use the educational content provided in this repository for personal or educational purposes.
+Benjanin Virtual Institute is released under the [MIT License](LICENSE). Feel free to use the educational content provided in this repository for personal or educational purposes.
