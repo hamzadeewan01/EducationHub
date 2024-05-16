@@ -1,5 +1,4 @@
-/* @ahkamboh 2023 */
-// https://github.com/ahkamboh
+/* @Venture Deewan 2024 */
 
 // Nav bar formation
 let navclass = document.querySelector("ul");
