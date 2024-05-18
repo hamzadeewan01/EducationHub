@@ -208,7 +208,7 @@ nav {
 
 nav .lsa span {
   transition: all 1s;
-  color: #f6b91f;
+  color: white;
   position: absolute;
   top: -25px;
   left: 0px;
@@ -233,7 +233,7 @@ nav .lsa span:hover {
   transition: all 1s;
   position: absolute;
   font-size: 12.5PX;
-  color: white;
+  color:  #f6b91f;
   text-transform: uppercase;
   letter-spacing: .1px;
   top: 41PX;
